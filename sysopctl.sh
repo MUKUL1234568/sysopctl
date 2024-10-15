@@ -1,6 +1,6 @@
-#!/bin/bash
+ 
 
-# sysopctl - A custom Linux command for managing system resources and tasks
+# sysopctl - custom Linux command for managing system resources and tasks
 # Version: v0.1.0
 
 VERSION="v0.1.0"
